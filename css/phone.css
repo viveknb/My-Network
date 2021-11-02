@@ -1,0 +1,99 @@
+/* Responsive  */
+@media (max-width: 900px) {
+    .links {
+        margin-top: 10px;
+        padding: 14px;
+        width: 900px;
+    }
+    .logo {
+        margin-top: 2%;
+        max-width: 90px;
+    }
+    .web-name {
+        padding-top: 10px;
+        padding-bottom: 2px;
+    }
+    
+}
+@media (max-width: 550px) {
+    .links {
+        margin-top: 15px;
+        padding: 10px;
+        width: 270px;
+    }
+    .logo {
+        margin-top: 25px;
+        max-width: 90px;
+    }
+    .web-name {
+        padding-top: 16px;
+        padding-bottom: 10px;
+    }
+    body {
+        font-size: 16px;
+    }
+}
+
+@media (max-width: 450px) {
+    .links {
+        margin-top: 13px;
+        padding: 8px;
+        display: block;
+        width: 220px;
+    }
+    .logo {
+        margin-top: 20px;
+        max-width: 90px;
+    }
+    .web-name {
+        padding-top: 16px;
+        padding-bottom: 10px;
+    }
+    body {
+        font-size: 15px;
+    }
+}
+
+@media (max-width: 350px) {
+    .links {
+        margin-top: 10px;
+        padding: 5px;
+        width: 200px;
+    }
+    .logo {
+        margin-top: 30px;
+        max-width: 90px;
+    }
+    .web-name {
+        padding-top: 16px;
+        padding-bottom: 10px;
+    }
+    body {
+        font-size: 14px;
+    }
+}
+
+@media (max-width: 250px) {
+    .links {
+        height: 10%;
+        margin-top: 2px;
+        margin-bottom: 2px;
+        padding: 5px;
+        width: 100px;
+        font-size: 8px;
+    }
+    .logo {
+        margin-top: 10px;
+        height: 15%;
+        max-width: 90px;
+    }
+    .web-name {
+        font-size: 20px;
+        padding-top: 10px;
+        padding-bottom: 2px;
+    }
+    body {
+        font-size: 13px;
+    }
+    
+}
